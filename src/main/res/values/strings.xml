@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Die Roller</string>
+    <string name="begin_roll">Tap to Roll</string>
+    <string name="outcome_1">Critical Fumble!</string>
+    <string name="outcome_2">Rolled 2</string>
+    <string name="outcome_3">Rolled 3</string>
+    <string name="outcome_4">Rolled 4</string>
+    <string name="outcome_5">Rolled 5</string>
+    <string name="outcome_6">Rolled 6</string>
+    <string name="outcome_7">Rolled 7</string>
+    <string name="outcome_8">Rolled 8</string>
+    <string name="outcome_9">Rolled 9</string>
+    <string name="outcome_10">Rolled 10</string>
+    <string name="outcome_11">Rolled 11</string>
+    <string name="outcome_12">Rolled 12</string>
+    <string name="outcome_13">Rolled 13</string>
+    <string name="outcome_14">Rolled 14</string>
+    <string name="outcome_15">Rolled 15</string>
+    <string name="outcome_16">Rolled 16</string>
+    <string name="outcome_17">Rolled 17</string>
+    <string name="outcome_18">Rolled 18</string>
+    <string name="outcome_19">Rolled 19</string>
+    <string name="outcome_20">Critical Hit!</string>
+</resources>
